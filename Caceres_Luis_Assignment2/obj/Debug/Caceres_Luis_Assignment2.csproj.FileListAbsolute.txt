@@ -1,0 +1,10 @@
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\04-DATA-STRUCTURES\Caceres_Luis_Assignment2\Caceres_Luis_Assignment2\bin\Debug\Caceres_Luis_Assignment2.exe.config
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\04-DATA-STRUCTURES\Caceres_Luis_Assignment2\Caceres_Luis_Assignment2\bin\Debug\Caceres_Luis_Assignment2.exe
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\04-DATA-STRUCTURES\Caceres_Luis_Assignment2\Caceres_Luis_Assignment2\bin\Debug\Caceres_Luis_Assignment2.pdb
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\04-DATA-STRUCTURES\Caceres_Luis_Assignment2\Caceres_Luis_Assignment2\obj\Debug\Caceres_Luis_Assignment2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\04-DATA-STRUCTURES\Caceres_Luis_Assignment2\Caceres_Luis_Assignment2\obj\Debug\Caceres_Luis_Assignment2.Form1.resources
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\04-DATA-STRUCTURES\Caceres_Luis_Assignment2\Caceres_Luis_Assignment2\obj\Debug\Caceres_Luis_Assignment2.Properties.Resources.resources
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\04-DATA-STRUCTURES\Caceres_Luis_Assignment2\Caceres_Luis_Assignment2\obj\Debug\Caceres_Luis_Assignment2.csproj.GenerateResource.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\04-DATA-STRUCTURES\Caceres_Luis_Assignment2\Caceres_Luis_Assignment2\obj\Debug\Caceres_Luis_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\04-DATA-STRUCTURES\Caceres_Luis_Assignment2\Caceres_Luis_Assignment2\obj\Debug\Caceres_Luis_Assignment2.exe
+C:\Users\User\Documents\00-IMPORTANT\01-SCHOOL\04-DATA-STRUCTURES\Caceres_Luis_Assignment2\Caceres_Luis_Assignment2\obj\Debug\Caceres_Luis_Assignment2.pdb
